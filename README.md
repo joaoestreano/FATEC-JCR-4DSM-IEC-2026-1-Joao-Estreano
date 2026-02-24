@@ -1,8 +1,8 @@
 # Portfólio – Integração e Entrega Contínua – 2026/1
 ## Aluno
-- Nome:
+- Nome: João Victor Estreano Nogueira Vaz Silva
 - LinkedIn:
-- GitHub:
+- GitHub: joaoestreano
 ---
 ## Estrutura
 - P1
